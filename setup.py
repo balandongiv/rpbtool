@@ -6,5 +6,5 @@ setup(name='rpbtool',
       author='rpb',
       packages=['rpbtool'],
       long_description='Tools that commonly used throught my career',
-      install_requires=['mne','numpy','pandas','pickle'],
+      install_requires=['mne','numpy','pandas'],
       )
